@@ -28,7 +28,7 @@ public class Main {
     };
 
     public static void main(String[] args) {
-        System.out.println("Greetings, teacher! This is your helping programm!");
+        System.out.println("Greetings, dear teacher! This is your helping programm!");
         System.out.println("Use \"get_help\" command to get the list of all commands.");
 
         Scanner in = new Scanner(System.in);
